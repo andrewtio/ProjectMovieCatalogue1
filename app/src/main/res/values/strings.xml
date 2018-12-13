@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectCatalogueMovie1</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal_release">Tanggal Release</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="masukkan_nama_movie">Masukkan nama movie</string>
+    <string name="cari">Cari</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="captain_america">CaptainAmerica</string>
+    <string name="wiro_sableng">wiro</string>
+</resources>
